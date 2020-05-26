@@ -1,5 +1,5 @@
 # c0decobra
-I made a very simple and easy use of **[spf13/cobra](https://github.com/spf13/cobra/)**</br>
+Simple and easy example for **[spf13/cobra](https://github.com/spf13/cobra/)**</br>
 
 ## Want to add more commands?
 ### No problem!
