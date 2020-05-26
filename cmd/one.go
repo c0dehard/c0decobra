@@ -6,8 +6,8 @@ import (
 	"github.com/spf13/cobra"
 )
 
-// decryptCmd represents the decrypt command
-var decryptCmd = &cobra.Command{
+// oneCmd represents the one command
+var oneCmd = &cobra.Command{
 	Use:   "one",
 	Short: "one",
 	Long:  `one one one one one`,
@@ -19,5 +19,5 @@ var decryptCmd = &cobra.Command{
 }
 
 func init() {
-	rootCmd.AddCommand(decryptCmd)
+	rootCmd.AddCommand(one)
 }
